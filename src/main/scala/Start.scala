@@ -3,7 +3,6 @@ import scala.language.postfixOps
 import scala.sys.exit
 
 object Start {
-
   def go(): Unit = {
     val username = getUsername
     val password = getPassword
